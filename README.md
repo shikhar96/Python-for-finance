@@ -1,3 +1,3 @@
 # Python for finance
 
-Some Jupyter notebooks that use Python to analyze finance data.
+Some Jupyter notebooks that analyze finance data.
